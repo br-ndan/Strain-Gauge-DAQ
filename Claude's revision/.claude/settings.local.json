@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p backup)",
+      "Bash(cp \"CLAUDE TEST - straingaugesystem - brendan copy.kicad_sch\" \"backup/straingaugesystem-before-fixlist-2026-10-30.kicad_sch\")",
+      "Bash(tasklist)",
+      "mcp__konnect__load_toolset"
+    ]
+  }
+}
