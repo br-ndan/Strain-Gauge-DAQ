@@ -1,2 +1,2 @@
 # Strain-Gauge-DAQ
-Baja SAE Strain Gauge DAQ PCB
+Baja SAE Strain Gauge DAQ PCB (WIP)
